@@ -1,6 +1,6 @@
 # priseprediction
 
-Stock Trend Predictor
+#Stock Trend Predictor
 This project is a stock trend predictor that uses historical stock data to predict the future price trend of a given stock. It leverages machine learning techniques and the Keras library for building and training a neural network model.
 
 Table of Contents
