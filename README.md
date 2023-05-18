@@ -14,7 +14,7 @@ Clone the repository:
 
 shell
 Copy code
-git clone https://github.com/your-username/stock-trend-predictor.git
+git clone https://github.com/vyankatehpophale0/priseprediction.git
 Install the required dependencies:
 
 shell
